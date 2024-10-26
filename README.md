@@ -4,7 +4,6 @@ Hi 👋 My name is MustafaMert
 * 🌍  I'm based in Türkiye
 * 🖥️  See my portfolio at [MustafaMert.NET](http://mustafamert.Net)
 * ✉️  You can contact me at [mustafamert1011@gmail.com](mailto:mustafamert1011@gmail.com)
-* 🚀  I'm currently working on [Tonix Bilişim Teknolojileri](http://tonixbilisim.com.tr)
 * 🧠  I'm learning Machine Learning & Deep Learning
 
 ### Skills
